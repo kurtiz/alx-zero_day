@@ -1,1 +1,1 @@
-Another readme file which is not empty
+Another readme file
